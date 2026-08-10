@@ -1,0 +1,17 @@
+{
+  "title": "The Architecture of Stillness",
+  "subtitle": "A Philosophical Meditation",
+  "genre": "Philosophy",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "A philosophical meditation for the modern reader — on inner peace, time, control, and the art of living deliberately. Inspired by Stoic and contemplative traditions.",
+  "style": "Calm, luminous, aphoristic prose. Short chapters, each a meditation. Gentle and profound.",
+  "characters": "The reader as a student of stillness.",
+  "setting": "None — universal.",
+  "notes": "Continue the numbered chapters. Each is a self-contained meditation that builds the book's architecture of inner peace.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v1.0/book.html"],
+  "htmlFiles": [],
+  "indexInject": null,
+  "mdHeadingLevel": 2,
+  "targetWords": 2000
+}
